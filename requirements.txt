@@ -1,0 +1,8 @@
+openai-whisper
+numpy
+sounddevice
+scipy
+pyttsx3
+beautifulsoup4
+wikipedia
+requests
